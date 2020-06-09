@@ -1,5 +1,5 @@
-# NWL-Ecoleta
-Projeto criado na NWL (Rocketseat) 
+# NLW-Ecoleta
+Projeto criado na NLW (Rocketseat) 
 
 Tecnologias utilizadas:
 HTML5;
